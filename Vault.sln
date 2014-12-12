@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22303.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vault.CommandLine", "src\Vault.CommandLine\Vault.CommandLine.csproj", "{D5FC4740-FC3C-4B4E-91F4-06F41DACF243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vault.Core", "src\Vault.Core\Vault.Core.csproj", "{2F7ABF63-2AE6-42F9-9300-3FF4A648E243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FC4740-FC3C-4B4E-91F4-06F41DACF243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FC4740-FC3C-4B4E-91F4-06F41DACF243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FC4740-FC3C-4B4E-91F4-06F41DACF243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FC4740-FC3C-4B4E-91F4-06F41DACF243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7ABF63-2AE6-42F9-9300-3FF4A648E243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7ABF63-2AE6-42F9-9300-3FF4A648E243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7ABF63-2AE6-42F9-9300-3FF4A648E243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7ABF63-2AE6-42F9-9300-3FF4A648E243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
